@@ -1,0 +1,46 @@
+{
+  "@@locale": "th",
+  "appTitle": "Memosyne",
+
+  "tabBot": "บอท",
+  "tabCalendar": "ปฏิทิน",
+  "tabNotes": "โน้ต",
+
+  "allNotes": "โน้ตทั้งหมด",
+  "untitled": "ไม่มีชื่อเรื่อง",
+  "searchHint": "ค้นหา",
+  "emptyNotes": "ยังไม่มีโน้ต กดปุ่ม + เพื่อเพิ่ม",
+  "addNote": "สร้างโน้ตใหม่",
+  "openFolders": "โฟลเดอร์",
+
+  "addFolder": "เพิ่มโฟลเดอร์",
+  "folderNameLabel": "ชื่อโฟลเดอร์",
+  "renameFolder": "เปลี่ยนชื่อ",
+  "folderNameRequired": "กรุณากรอกชื่อโฟลเดอร์",
+  "folderExists": "มีโฟลเดอร์ชื่อนี้อยู่แล้ว",
+  "deleteFolderTitle": "ลบโฟลเดอร์ \"{name}\"?",
+  "deleteFolderMessage": "โน้ตในโฟลเดอร์จะไม่ถูกลบ และยังอยู่ใน \"โน้ตทั้งหมด\"",
+
+  "delete": "ลบ",
+  "cancel": "ยกเลิก",
+  "save": "บันทึก",
+
+  "selectedCount": "เลือกแล้ว {count}",
+  "deleteNotesTitle": "ลบโน้ต {count} รายการ?",
+  "deleteNotesMessage": "การลบนี้ไม่สามารถย้อนกลับได้",
+
+  "noteTitleHint": "ชื่อเรื่อง",
+  "noteBodyHint": "เริ่มเขียนที่นี่...",
+  "editMode": "โหมดแก้ไข",
+  "readMode": "โหมดอ่าน",
+
+  "addImage": "เพิ่มรูปภาพ",
+  "imageSmall": "เล็ก",
+  "imageMedium": "กลาง",
+  "imageLarge": "ใหญ่ (เต็มความกว้าง)",
+  "deleteImage": "ลบรูปภาพ",
+
+  "moveToFolder": "ย้ายไปโฟลเดอร์",
+  "noFolder": "ไม่มีโฟลเดอร์",
+  "noFoldersYet": "ยังไม่มีโฟลเดอร์ สร้างได้จากเมนูโฟลเดอร์"
+}

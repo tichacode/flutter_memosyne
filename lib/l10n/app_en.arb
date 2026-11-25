@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "appTitle": "Memosyne",
+
+  "tabBot": "Bot",
+  "tabCalendar": "Calendar",
+  "tabNotes": "Notes",
+
+  "allNotes": "All notes",
+  "untitled": "Untitled",
+  "searchHint": "Search",
+  "emptyNotes": "No notes yet. Tap + to add one.",
+  "addNote": "New note",
+  "openFolders": "Folders",
+
+  "addFolder": "Add folder",
+  "folderNameLabel": "Folder name",
+  "renameFolder": "Rename",
+  "folderNameRequired": "Please enter a folder name",
+  "folderExists": "A folder with this name already exists",
+  "deleteFolderTitle": "Delete folder \"{name}\"?",
+  "@deleteFolderTitle": {
+    "placeholders": { "name": { "type": "String" } }
+  },
+  "deleteFolderMessage": "The notes inside will not be deleted. They stay in All notes.",
+
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "save": "Save",
+
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "deleteNotesTitle": "{count, plural, =1{Delete this note?} other{Delete {count} notes?}}",
+  "@deleteNotesTitle": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "deleteNotesMessage": "This cannot be undone.",
+
+  "noteTitleHint": "Title",
+  "noteBodyHint": "Start writing...",
+  "editMode": "Edit mode",
+  "readMode": "Read mode",
+
+  "addImage": "Add picture",
+  "imageSmall": "Small",
+  "imageMedium": "Medium",
+  "imageLarge": "Large (fit width)",
+  "deleteImage": "Delete picture",
+
+  "moveToFolder": "Move to folder",
+  "noFolder": "No folder",
+  "noFoldersYet": "No folders yet. Create one from the folder menu."
+}
